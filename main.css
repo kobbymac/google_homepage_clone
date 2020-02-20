@@ -122,3 +122,8 @@ body{
     /* word-spacing: 0.2rem; */
     padding: 0 5px;
 }
+
+.footer .footer-bottom a:hover{
+    /* text-decoration: underline; */
+    border-bottom: 1px solid #262626;
+}
